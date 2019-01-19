@@ -1,0 +1,15 @@
+--exclude=*.svn*
+--exclude=*.git*
+--exclude=*tmp*
+--exclude=.#*
+--exclude=*.class
+--tag-relative=yes
+--recurse=yes
+
+--langdef=js
+
+--regex-js=/[ \t.]([A-Z][A-Z0-9._$]+)[ \t]*[=:][ \t]*([0-9"'\[\{]|null)/\1/n,constant/
+
+--langdef=css
+--langmap=css:.css
+--regex-css=/^[ \t]*\.([A-Za-z0-9_-]+)/.\1/c,class,classes/

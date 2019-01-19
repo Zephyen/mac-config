@@ -1,0 +1,19 @@
+;;; -*- coding: utf-8 -*-
+(("/Users/zengfeng/Documents/practice/"
+  (dired-filename . "/Users/zengfeng/Documents/practice/BlockCode"))
+ ("/Users/zengfeng/Documents/practice/BlockCode/"
+  (dired-filename . "/Users/zengfeng/Documents/practice/BlockCode/menu.js"))
+ ("/Users/zengfeng/.emacs.d/lisp/init-projectile.el" . 468)
+ ("/Users/zengfeng/Documents/.emacs.d/site-lisp/yasnippet-snippets/snippets/js-mode/al" . 53)
+ ("/Users/zengfeng/Documents/.emacs.d/lisp/init-yasnippet.el" . 241)
+ ("/Users/zengfeng/Documents/.emacs.d/"
+  (dired-filename . "/Users/zengfeng/Documents/.emacs.d/init.el"))
+ ("/Users/zengfeng/Documents/.emacs.d/init.el" . 343)
+ ("/Users/zengfeng/Documents/.emacs.d/lisp/init-javascript.el" . 255)
+ ("/Users/zengfeng/Documents/.emacs.d/lisp/init-company.el" . 482)
+ ("/Users/zengfeng/Documents/.emacs.d/lisp/init-web.el" . 309)
+ ("/Users/zengfeng/Documents/.emacs.d/lisp/"
+  (dired-filename . "/Users/zengfeng/Documents/.emacs.d/lisp/config.el"))
+ ("/Users/zengfeng/Documents/practice/Blockcode/block.js" . 347)
+ ("/Users/zengfeng/Documents/.emacs.d/lisp/config.el" . 1759)
+ ("/Users/zengfeng/.emacs.d/.uptimes.el" . 11808))
